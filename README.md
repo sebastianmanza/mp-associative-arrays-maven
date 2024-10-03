@@ -1,7 +1,10 @@
 Associative Arrays
 ==================
+By Sebastian Manza
+Starter code provided by Sam Rebelsky
+10/3/24
 
-Starter code for a CSC-207 project on associative arrays.
+A CSC-207 project on associative arrays, creating a basic dictionary.
 
-_Students must replace the contents of this file with appropriate
-contents, including class, author, date, and URL._
+
+Project can be found at https://github.com/sebastianmanza/mp-associative-arrays-maven
